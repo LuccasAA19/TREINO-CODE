@@ -12,8 +12,9 @@
 
 - **Procedimentos:** radiofrequência, bloqueios de nervo, estimulação
   medular, bloqueio de nervos geniculares
-- **Pesquisa:** colaboração multicêntrica ML/EEG entre UNIFESP, Hospital
-  Einstein e ITA
+- **Pesquisa:** colaboração multicêntrica EEG/ML para **predição de
+  crises epilépticas** entre UNIFESP, Hospital Einstein e ITA
+  (NÃO é pesquisa em dor — domínios separados)
 
 ## Stack & infra
 
@@ -27,13 +28,18 @@
 
 ## Tese empreendedora
 
-- Intersecção entre **dor intervencionista** (defensibilidade procedural) e
-  **ML/IA clínica**
-- Visão: rede nacional de clínicas de dor com plataforma de decisão
-  clínica como infra de padronização
-- Se identifica como **empreendedor com formação médica profunda** — não
-  o contrário
-- Meta explícita: riqueza transformacional de longo prazo
+- **Por que dor:** o moat procedural/físico (radiofrequência, bloqueios,
+  SCS) protege contra comoditização inicial por IA, ao contrário de
+  trabalhos puramente clínicos/cognitivos.
+- **Modelo de referência:** Stanley Hair — rede de clínicas + cursos
+  para profissionais (faturamento ~R$400M em 2024). Combinar atendimento
+  premium + formação de profissionais multiplica receita e capilaridade.
+- **Visão atual (em construção):** Clínica de Dor "AI-powered" como
+  ponto de partida, com captação de capital. Sem ideia milagrosa ainda
+  — está no básico.
+- Se identifica como **empreendedor com formação médica profunda** —
+  não o contrário.
+- Meta explícita: riqueza transformacional de longo prazo.
 
 ## Interesses intelectuais
 
